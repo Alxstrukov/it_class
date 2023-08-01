@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cats>
+    <cat regNumber="1">
+        <name>Murzik</name>
+        <age>2</age>
+    </cat>
+    <cat regNumber="2">
+        <name>Masha</name>
+        <age>3</age>
+    </cat>
+    <cat regNumber="2">
+        <name>Murka</name>
+        <age>4</age>
+    </cat>
+    <cat regNumber="2">
+        <name>Barsik</name>
+        <age>5</age>
+    </cat>
+</cats>
