@@ -1,4 +1,4 @@
-package lessons.lesson24_01_base;
+package lessons.lesson24_01_base._01_base;
 
 import lessons.lesson23._01_lambda.model.Breed;
 import lessons.lesson23._01_lambda.model.Cat;

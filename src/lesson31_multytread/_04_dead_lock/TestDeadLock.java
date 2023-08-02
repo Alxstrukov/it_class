@@ -2,8 +2,6 @@ package lesson31_multytread.dead_lock;
 
 import lombok.SneakyThrows;
 
-
-
 public class TestDeadLock {
     public static Object lock1 = new Object();
     public static Object lock2 = new Object();
