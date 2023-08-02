@@ -1,4 +1,4 @@
-package lesson31_multytread.dead_lock;
+package lesson31_multytread._04_dead_lock;
 
 import lombok.SneakyThrows;
 

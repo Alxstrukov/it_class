@@ -1,13 +1,10 @@
-package lessons.lesson24_01_base._02_operations;
+package lessons.lesson24._02_operations;
 
 import lessons.lesson23._01_lambda.model.Breed;
 import lessons.lesson23._01_lambda.model.Cat;
-import org.w3c.dom.ls.LSOutput;
 
-import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 

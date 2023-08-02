@@ -1,4 +1,4 @@
-package lesson31_multytread.order;
+package lesson31_multytread._02_order;
 
 import lombok.SneakyThrows;
 
