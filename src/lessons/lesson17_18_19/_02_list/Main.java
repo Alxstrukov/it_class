@@ -1,6 +1,5 @@
-package lessons.lesson17._02_list;
+package lessons.lesson17_18_19._02_list;
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.*;
 
 public class Main {

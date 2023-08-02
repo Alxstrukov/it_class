@@ -1,4 +1,4 @@
-package lesson22.pattern;
+package lessons.lesson22.pattern;
 
 
 //регулярки - это шаблон для поиска в текте
@@ -6,7 +6,6 @@ package lesson22.pattern;
 //в Java любое представление шаблона это всегда строка
 
 
-import java.util.Arrays;
 import java.util.regex.Pattern;
 
 public class Main {
