@@ -1,4 +1,4 @@
-package lesson31_multytread._02_order;
+package lessons.lesson31_multytread._02_order;
 
 public class Main {
     private static volatile boolean running;//volatile это служебное слово, которое говорит о том,

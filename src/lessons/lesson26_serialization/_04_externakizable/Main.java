@@ -1,10 +1,9 @@
-package lesson26_serialization._04_externakizable;
+package lessons.lesson26_serialization._04_externakizable;
 
 import java.io.*;
-import java.sql.SQLOutput;
 
 public class Main {
-    private static final String PATH = "src\\lesson26_serialization\\_04_externakizable\\resource\\save.save";
+    private static final String PATH = "src\\lessons.lesson26_serialization\\_04_externakizable\\resource\\save.save";
     public static void main(String[] args) {
        ExtendedUser extendedUser =  new ExtendedUser("Vasya Pupkin","vasek125","Thi$ismYpa$$");
 

@@ -1,4 +1,4 @@
-package lesson31_multytread._06_interrupt;
+package lessons.lesson31_multytread._06_interrupt;
 
 import lombok.SneakyThrows;
 

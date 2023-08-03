@@ -1,10 +1,9 @@
-package lesson27_xml_json._06_json;
+package lessons.lesson27_xml_json._06_json;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-import lesson27_xml_json._00_model.CatModel;
-import lesson27_xml_json._05_jaxb.model.CatJaxb;
+import lessons.lesson27_xml_json._05_jaxb.model.CatJaxb;
 
 import java.io.*;
 import java.lang.reflect.Type;
@@ -12,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 
 public class Main {
-    private static final String PATH = "src\\lesson27_xml_json\\_06_json\\resources\\cats.json";
+    private static final String PATH = "src\\lessons.lesson27_xml_json\\_06_json\\resources\\cats.json";
 
     private static final Gson gson = new GsonBuilder().setPrettyPrinting().create();
     private static final Type TYPE = new TypeToken<List<CatJaxb>>(){}.getType();

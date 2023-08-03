@@ -1,4 +1,4 @@
-package lesson27_xml_json._00_model;
+package lessons.lesson27_xml_json._00_model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

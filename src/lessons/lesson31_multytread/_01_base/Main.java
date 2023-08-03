@@ -1,4 +1,4 @@
-package lesson31_multytread._01_base;
+package lessons.lesson31_multytread._01_base;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

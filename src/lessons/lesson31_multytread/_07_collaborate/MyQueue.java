@@ -1,4 +1,4 @@
-package lesson31_multytread._07_collaborate;
+package lessons.lesson31_multytread._07_collaborate;
 
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;

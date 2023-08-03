@@ -1,4 +1,4 @@
-package lesson31_multytread._07_collaborate;
+package lessons.lesson31_multytread._07_collaborate;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,5 +10,6 @@ public class Main {
 
         t1.start();
         t2.start();
+        System.out.println("Многопоточность");
     }
 }

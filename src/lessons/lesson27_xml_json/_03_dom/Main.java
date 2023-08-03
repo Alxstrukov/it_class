@@ -1,6 +1,6 @@
-package lesson27_xml_json._03_dom;
+package lessons.lesson27_xml_json._03_dom;
 
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 
 import java.util.List;
 

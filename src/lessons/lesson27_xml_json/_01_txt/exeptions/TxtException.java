@@ -1,4 +1,4 @@
-package lesson27_xml_json._01_txt.exeptions;
+package lessons.lesson27_xml_json._01_txt.exeptions;
 
 import java.util.StringJoiner;
 

@@ -1,4 +1,4 @@
-package lesson26_serialization._04_externakizable;
+package lessons.lesson26_serialization._04_externakizable;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.io.ObjectInput;
 import java.io.ObjectOutput;
 import java.util.Base64;
-import java.util.StringJoiner;
 
 @AllArgsConstructor
 @NoArgsConstructor

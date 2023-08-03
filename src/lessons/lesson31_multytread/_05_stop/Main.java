@@ -1,4 +1,4 @@
-package lesson31_multytread._05_stop;
+package lessons.lesson31_multytread._05_stop;
 
 
 

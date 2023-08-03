@@ -1,4 +1,4 @@
-package lesson26_serialization._02_standard;
+package lessons.lesson26_serialization._02_standard;
 
 import java.io.Serializable;
 import java.util.StringJoiner;

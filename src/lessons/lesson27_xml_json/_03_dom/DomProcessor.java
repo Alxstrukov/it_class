@@ -1,7 +1,6 @@
-package lesson27_xml_json._03_dom;
+package lessons.lesson27_xml_json._03_dom;
 
-import lesson25_remind.model.Cat;
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -18,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DomProcessor {
-    private static final String PATH = "src\\lesson27_xml_json\\_03_dom\\resource\\cats.xml";
+    private static final String PATH = "src\\lessons.lesson27_xml_json\\_03_dom\\resource\\cats.xml";
 
     public static List<CatModel> parseXml() {
         List<CatModel> cats = new ArrayList<>();

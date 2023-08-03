@@ -1,13 +1,12 @@
-package lesson26_serialization._01_remaind;
+package lessons.lesson26_serialization._01_remaind;
 
 import java.io.*;
-import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Main {
-    private static final String PATH_TO_INPUT = "src\\lesson26_serialization\\_01_remaind\\resourses\\test.file";
-    private static final String PATH_TO_OUTPUT = "src\\lesson26_serialization\\_01_remaind\\resourses\\output.file";
+    private static final String PATH_TO_INPUT = "src\\lessons.lesson26_serialization\\_01_remaind\\resourses\\test.file";
+    private static final String PATH_TO_OUTPUT = "src\\lessons.lesson26_serialization\\_01_remaind\\resourses\\output.file";
 
     public static void main(String[] args) {
 

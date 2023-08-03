@@ -1,6 +1,6 @@
-package lesson30_sql.prepared;
+package lessons.lesson30_sql.prepared;
 
-import lesson30_sql.model.Staff;
+import lessons.lesson30_sql.model.Staff;
 
 import java.sql.*;
 import java.util.ArrayList;

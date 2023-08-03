@@ -1,10 +1,9 @@
-package lesson26_serialization._02_standard;
+package lessons.lesson26_serialization._02_standard;
 
 import java.io.*;
-import java.sql.SQLOutput;
 
 public class Main {
-    private static final String PATH_TO_FILE = "src\\lesson26_serialization\\_02_standard\\resourses\\save.save";
+    private static final String PATH_TO_FILE = "src\\lessons.lesson26_serialization\\_02_standard\\resourses\\save.save";
 
     public static void main(String[] args) throws FileNotFoundException {
         Child child = new Child(1);

@@ -1,6 +1,6 @@
-package lesson27_xml_json._04_stax;
+package lessons.lesson27_xml_json._04_stax;
 
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.XMLStreamException;
@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class StaxPocessor {
-    private static final String PATH = "src\\lesson27_xml_json\\_04_stax\\resource\\cats.xml";
+    private static final String PATH = "src\\lessons.lesson27_xml_json\\_04_stax\\resource\\cats.xml";
 
 
     public static List<CatModel> parseXml() {

@@ -1,9 +1,9 @@
-package lesson25_remind.utils;
+package lessons.lesson25_remind.utils;
 
-import lesson25_remind.exceptions.CompetitionException;
-import lesson25_remind.model.Animal;
-import lesson25_remind.model.Cat;
-import lesson25_remind.model.Dog;
+import lessons.lesson25_remind.exceptions.CompetitionException;
+import lessons.lesson25_remind.model.Animal;
+import lessons.lesson25_remind.model.Cat;
+import lessons.lesson25_remind.model.Dog;
 import lombok.experimental.UtilityClass;
 
 import java.io.FileNotFoundException;
@@ -15,7 +15,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
-import static lesson25_remind.constants.CompetitionConstants.*;
+import static lessons.lesson25_remind.constants.CompetitionConstants.*;
 
 @UtilityClass
 public class CompetitionUtils<T> {

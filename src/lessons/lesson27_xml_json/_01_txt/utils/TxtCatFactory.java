@@ -1,7 +1,7 @@
-package lesson27_xml_json._01_txt.utils;
+package lessons.lesson27_xml_json._01_txt.utils;
 
-import lesson27_xml_json._01_txt.exeptions.TxtException;
-import lesson27_xml_json._01_txt.model.TxtCat;
+import lessons.lesson27_xml_json._01_txt.exeptions.TxtException;
+import lessons.lesson27_xml_json._01_txt.model.TxtCat;
 import lombok.experimental.UtilityClass;
 
 import java.util.Arrays;

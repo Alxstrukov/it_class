@@ -1,4 +1,4 @@
-package lesson31_multytread._03_race;
+package lessons.lesson31_multytread._03_race;
 
 import lombok.AllArgsConstructor;
 import lombok.ToString;

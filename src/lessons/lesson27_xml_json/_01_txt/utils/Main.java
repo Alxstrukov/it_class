@@ -1,8 +1,7 @@
-package lesson27_xml_json._01_txt.utils;
+package lessons.lesson27_xml_json._01_txt.utils;
 
-import lesson27_xml_json._01_txt.model.TxtCat;
+import lessons.lesson27_xml_json._01_txt.model.TxtCat;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {

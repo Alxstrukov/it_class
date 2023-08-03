@@ -1,6 +1,6 @@
-package lesson27_xml_json._02_sax;
+package lessons.lesson27_xml_json._02_sax;
 
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 import lombok.Getter;
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;

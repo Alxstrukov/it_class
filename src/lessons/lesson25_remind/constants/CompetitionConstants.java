@@ -1,13 +1,13 @@
-package lesson25_remind.constants;
+package lessons.lesson25_remind.constants;
 
-import lesson25_remind.model.Animal;
+import lessons.lesson25_remind.model.Animal;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.function.Predicate;
 
 public class CompetitionConstants {
-    public static final String PATH_TO_FILE = "src\\lesson25_remind\\data\\pet.txt";
+    public static final String PATH_TO_FILE = "src\\lessons.lesson25_remind\\data\\pet.txt";
     public static final String DELIMETER = "[,;]";
     public static final String CHIP_REGEX = "(?=\\d{15}\\b)\\d{3}09(?:81|56)\\d{8}";
     public static final String EMAIL_REGEX = "\\w+([\\.-]?\\w+)*@\\w+([\\.-]?\\w+)*\\.\\w{2,4}";

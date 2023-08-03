@@ -1,9 +1,9 @@
-package lesson25_remind;
+package lessons.lesson25_remind;
 
 
-import lesson25_remind.model.Cat;
-import lesson25_remind.model.Dog;
-import lesson25_remind.utils.CompetitionUtils;
+import lessons.lesson25_remind.model.Cat;
+import lessons.lesson25_remind.model.Dog;
+import lessons.lesson25_remind.utils.CompetitionUtils;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package lesson30_sql.model;
+package lessons.lesson30_sql.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

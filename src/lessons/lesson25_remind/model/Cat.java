@@ -1,4 +1,4 @@
-package lesson25_remind.model;
+package lessons.lesson25_remind.model;
 
 import java.time.LocalDate;
 

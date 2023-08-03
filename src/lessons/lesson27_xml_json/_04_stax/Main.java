@@ -1,6 +1,6 @@
-package lesson27_xml_json._04_stax;
+package lessons.lesson27_xml_json._04_stax;
 
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 
 import java.util.List;
 

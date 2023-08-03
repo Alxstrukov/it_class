@@ -1,8 +1,8 @@
-package lesson27_xml_json._05_jaxb;
+package lessons.lesson27_xml_json._05_jaxb;
 
 import jakarta.xml.bind.JAXBException;
-import lesson27_xml_json._05_jaxb.model.CatJaxb;
-import lesson27_xml_json._05_jaxb.utils.CatUtils;
+import lessons.lesson27_xml_json._05_jaxb.model.CatJaxb;
+import lessons.lesson27_xml_json._05_jaxb.utils.CatUtils;
 
 import java.io.IOException;
 import java.util.List;

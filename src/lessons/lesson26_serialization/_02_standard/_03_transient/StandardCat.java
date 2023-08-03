@@ -1,4 +1,4 @@
-package lesson26_serialization._02_standard._03_transient;
+package lessons.lesson26_serialization._02_standard._03_transient;
 
 import java.io.Serializable;
 import java.util.StringJoiner;

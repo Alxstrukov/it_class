@@ -1,12 +1,10 @@
-package lesson26_serialization._02_standard._03_transient;
-
-import lesson26_serialization._02_standard.Child;
+package lessons.lesson26_serialization._02_standard._03_transient;
 
 import java.io.*;
 import java.util.Arrays;
 
 public class Main {
-    private static final String PATH_TO_FILE = "src\\lesson26_serialization\\_02_standard\\_03_transient\\resources\\cat.save";
+    private static final String PATH_TO_FILE = "src\\lessons.lesson26_serialization\\_02_standard\\_03_transient\\resources\\cat.save";
 
     public static void main(String[] args) {
         StandardCat vaska = new StandardCat("Vaska", new StandardBox(Arrays.asList("mouse", "ball")));

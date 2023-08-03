@@ -1,6 +1,6 @@
-package lesson27_xml_json._02_sax;
+package lessons.lesson27_xml_json._02_sax;
 
-import lesson27_xml_json._00_model.CatModel;
+import lessons.lesson27_xml_json._00_model.CatModel;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -18,7 +18,7 @@ public class Main {
             SAXParserFactory factory = SAXParserFactory.newInstance();
             SAXParser parser = factory.newSAXParser();
             SaxHandler handler = new SaxHandler();
-            parser.parse(new FileInputStream("src\\lesson27_xml_json\\_02_sax\\resource\\cats.xml"), handler);
+            parser.parse(new FileInputStream("src\\lessons.lesson27_xml_json\\_02_sax\\resource\\cats.xml"), handler);
             List<CatModel> cats = handler.getCats();
             cats.forEach(System.out::println);
 

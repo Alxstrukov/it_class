@@ -1,4 +1,4 @@
-package lesson27_xml_json._05_jaxb.model;
+package lessons.lesson27_xml_json._05_jaxb.model;
 
 import jakarta.xml.bind.annotation.XmlAccessType;
 import jakarta.xml.bind.annotation.XmlAccessorType;

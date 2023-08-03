@@ -1,4 +1,4 @@
-package lesson25_remind.exceptions;
+package lessons.lesson25_remind.exceptions;
 
 public class CompetitionException extends Exception {
     private final String errorLine;
