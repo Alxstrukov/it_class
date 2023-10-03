@@ -1,4 +1,4 @@
-package lessons.lesson17._01_generics;
+package lessons.lesson17_18_19._01_generics;
 
 public class BoxString {
 

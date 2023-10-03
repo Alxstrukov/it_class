@@ -1,4 +1,4 @@
-package lessons._20_map.homework;
+package lessons.lesson20_map.homework;
 
 import java.util.*;
 
